@@ -114,7 +114,7 @@ body {
 @media (max-width: 768px) {
   /* For tablets and smaller devices */
   body{
-    background-size: cover;
+    background: #000;
   }
   .card {
     padding: 30px 20px;
@@ -157,7 +157,7 @@ body {
 @media (max-width: 480px) {
   /* For mobile phones */
   body{
-    background-size: cover;
+    background: #000 ;
   }
   .card {
     width: 100%;
